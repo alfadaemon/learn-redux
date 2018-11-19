@@ -5,7 +5,7 @@ const Main = React.createClass({
     render(){
         return(<div>
             <h1>
-                <Link to='/'>Reduxtragram</Link>
+                <Link to='/'>Luistragram</Link>
             </h1>
         </div>)
     }
